@@ -1,0 +1,288 @@
+[
+    {
+        "product_id": "01",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "category": "Smartphones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "02",
+        "product_title": "Samsung Galaxy Tab S9",
+        "product_image": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Tablets",
+        "price": 899,
+        "description": "Discover the latest Samsung Galaxy Tab with powerful performance.",
+        "specification": [
+            "12.4-inch AMOLED display",
+            "Qualcomm Snapdragon 8 Gen 2",
+            "Dual-camera system (13MP Main, 8MP Ultra-wide)",
+            "5G Connectivity",
+            "Up to 1TB expandable storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "03",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://images.pexels.com/photos/3945667/pexels-photo-3945667.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Headphones",
+        "price": 399,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "04",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Laptops",
+        "price": 1199,
+        "description": "Sleek, powerful, and lightweight laptop for professionals.",
+        "specification": [
+            "13.4-inch FHD+ InfinityEdge display",
+            "Intel Core i7-1360P Processor",
+            "16GB RAM, 512GB SSD",
+            "Intel Iris Xe Graphics",
+            "Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "05",
+        "product_title": "Canon EOS R5",
+        "product_image": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "category": "Smartphones",
+        "price": 3899,
+        "description": "Capture stunning images and videos with Canon's flagship mirrorless camera.",
+        "specification": [
+            "45MP Full-Frame CMOS Sensor",
+            "8K Video Recording",
+            "Dual Pixel CMOS AF II",
+            "5-Axis In-Body Image Stabilization",
+            "Up to 20 fps"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "06",
+        "product_title": "Nike Air Zoom Pegasus 39",
+        "product_image": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "category": "Smartphones",
+        "price": 130,
+        "description": "Reliable, lightweight running shoes for all terrains.",
+        "specification": [
+            "Responsive Zoom Air cushioning",
+            "Engineered mesh for breathability",
+            "Durable rubber outsole",
+            "Lightweight and supportive"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "07",
+        "product_title": "Dyson V15 Detect",
+        "product_image": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "category": "Smartphones",
+        "price": 749,
+        "description": "Powerful, intelligent cordless vacuum with laser dust detection.",
+        "specification": [
+            "Laser reveals microscopic dust",
+            "Up to 60 minutes runtime",
+            "Advanced whole-machine filtration",
+            "Two cleaner heads for different surfaces"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "08",
+        "product_title": "Breville Barista Express",
+        "product_image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Laptops",
+        "price": 699,
+        "description": "Create third-wave specialty coffee at home with ease.",
+        "specification": [
+            "Integrated conical burr grinder",
+            "Manual microfoam milk texturing",
+            "Stainless steel construction",
+            "Precise espresso extraction"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "09",
+        "product_title": "Samsung Galaxy Tab S9",
+        "product_image": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Tablets",
+        "price": 899,
+        "description": "Discover the latest Samsung Galaxy Tab with powerful performance.",
+        "specification": [
+            "12.4-inch AMOLED display",
+            "Qualcomm Snapdragon 8 Gen 2",
+            "Dual-camera system (13MP Main, 8MP Ultra-wide)",
+            "5G Connectivity",
+            "Up to 1TB expandable storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "10",
+        "product_title": "Samsung Galaxy Tab S9",
+        "product_image": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Tablets",
+        "price": 999,
+        "description": "Discover the latest Samsung Galaxy Tab with powerful performance.",
+        "specification": [
+            "12.4-inch AMOLED display",
+            "Qualcomm Snapdragon 8 Gen 2",
+            "Dual-camera system (13MP Main, 8MP Ultra-wide)",
+            "5G Connectivity",
+            "Up to 1TB expandable storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "11",
+        "product_title": "Samsung Galaxy Tab S9",
+        "product_image": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Tablets",
+        "price": 870,
+        "description": "Discover the latest Samsung Galaxy Tab with powerful performance.",
+        "specification": [
+            "12.4-inch AMOLED display",
+            "Qualcomm Snapdragon 8 Gen 2",
+            "Dual-camera system (13MP Main, 8MP Ultra-wide)",
+            "5G Connectivity",
+            "Up to 1TB expandable storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "12",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://images.pexels.com/photos/3945667/pexels-photo-3945667.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Headphones",
+        "price": 350,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "13",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://images.pexels.com/photos/3945667/pexels-photo-3945667.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Headphones",
+        "price": 370,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "14",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/MnBJZxr/pexels-energepic-com-27411-159886.jpg",
+        "category": "MacBooks",
+        "price": 4000,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "15",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/MnBJZxr/pexels-energepic-com-27411-159886.jpg",
+        "category": "MacBooks",
+        "price": 3950,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "16",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/MnBJZxr/pexels-energepic-com-27411-159886.jpg",
+        "category": "MacBooks",
+        "price": 3980,
+        "description": "Experience unparalleled noise cancellation and sound quality.",
+        "specification": [
+            "30-hour battery life",
+            "Advanced Noise Cancellation",
+            "Bluetooth 5.2",
+            "Quick Charge (5 mins for 3 hours)",
+            "Multi-device pairing"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "17",
+        "product_title": "Breville Barista Express",
+        "product_image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Laptops",
+        "price": 700,
+        "description": "Create third-wave specialty coffee at home with ease.",
+        "specification": [
+            "Integrated conical burr grinder",
+            "Manual microfoam milk texturing",
+            "Stainless steel construction",
+            "Precise espresso extraction"
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+
+]

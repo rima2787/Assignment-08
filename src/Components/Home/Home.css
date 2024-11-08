@@ -1,0 +1,17 @@
+img {
+    /* position: absolute;
+    top: 5px;
+    z-index: -2; */
+}
+.banner-top{
+    position: relative;
+}
+
+.banner-bottom{
+
+    /* position: absolute; */
+    /* /* left: 30px; */
+    z-index: 1;
+    border: 1px solid #73AD21;
+    padding: 10px;
+}
